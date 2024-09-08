@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently studying in 42 Lisbon
-- 🌱 I’m currently learning C (programming language)
+- 🔭 I’m currently studying in [42 Lisbon](https://www.42lisboa.com/o-que-e/)
+- 🌱 I’m currently learning [C (programming language)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 <!--
 **NunoAndrezo/NunoAndrezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
