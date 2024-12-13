@@ -1,4 +1,4 @@
-<h3 align="left">Hi! <br>My name is Nuno Andrezo and I'm a student at 42 Lisbon.<br>Born and raised in Porto, Portugal.<br>Love to code 💻, surf 🏄 and cook 👨🏻‍🍳!</h3>
+<h3 align="left">Hi! <br>My name is Nuno Andrezo and I'm a student at 42 Lisbon.<br>Born and raised in Porto, Portugal.<br>Love to code 💻, surf 🏄 and cook 👨🏻‍🍳!<br>Bachelor's in Transportation and Logistics.</h3>
 
 ###
 
