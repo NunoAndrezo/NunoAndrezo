@@ -28,9 +28,11 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/NunoAndrezo/NunoAndrezo/output/snake.svg" alt="Snake animation" />
+<!-- Snake -->
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
 
 ###
 
