@@ -22,11 +22,3 @@ jobs:
           github_user_name: NunoAndrezo
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
-
-      # Push the changes to the "output" branch
-      - name: Push changes
-        uses: github-actions-x/commit@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          commit_message: "Updated snake animation"
