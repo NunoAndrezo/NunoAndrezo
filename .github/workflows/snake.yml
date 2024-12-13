@@ -15,7 +15,3 @@ jobs:
       - name: Update snake animation
         run: |
           curl -sSL https://raw.githubusercontent.com/NunoAndrezo/NunoAndrezo/output/snake.svg -o snake.svg
-          git add snake.svg
-          git commit -m "Update snake animation"
-          git push
-
