@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generating Snake Animation
 
 on:
   schedule:
@@ -26,9 +26,7 @@ jobs:
 
       # Push the generated files to the output branch
       - name: Push Changes
-        uses: github-actions-x/commit@v4
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: output
-          author_name: github-actions[bot]
-          author_email: 41898282+github
