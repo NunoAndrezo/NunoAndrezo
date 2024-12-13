@@ -1,9 +1,8 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs every 6 hours
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *" # Every 6 hours
   workflow_dispatch:
 
 jobs:
@@ -11,17 +10,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Check out the repository
+      # Step 1: Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Generate the snake animation
-      - name: Generate snake animation
+      # Step 2: Generate the snake animation
+      - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
           github_user_name: NunoAndrezo
 
-      # Push the changes to the main branch
+      # Step 3: Commit and push the generated files
       - name: Commit and push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
