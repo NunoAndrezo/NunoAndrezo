@@ -23,9 +23,9 @@
 ###
 
 <div align="left">
-  <a href="mailto:your-9nuno97@gmail.com" target="_blank">
+<!--  <a href="mailto:your-9nuno97@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo" />
-  </a>
+  </a> -->
   <a href="https://www.instagram.com/nunoandrezo3/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo" />
   </a>
