@@ -16,7 +16,7 @@ Working at **MEO**, as a **Junior Software Developer Intern**, contributing to *
 Previously, I spent 4+ years in **logistics and operations management**, where I built strong foundations in planning, problem-solving, and process optimization — skills I now apply to technology and development.
 
 💻 Passionate about learning new technologies and building efficient, reliable systems.  
-🏄‍♂️ Outside of tech, I love to **surf, cook, and tinker with my self-hosted home server**, running **Dockerized services** for media, networking, and automation.
+🏄‍♂️ My favorite hobbies: I love to **surf, cook, and tinker with my self-hosted home server**, running **Dockerized services** for media, networking, and automation.
 
 ---
 
