@@ -83,6 +83,12 @@ Previously, I spent 4+ years in **logistics and operations management**, where I
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NunoAndrezo/NunoAndrezo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NunoAndrezo/NunoAndrezo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NunoAndrezo/NunoAndrezo/output/pacman-contribution-graph.svg">
+</picture>
+
 <p align="center">
   <img width="200" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Coding loop animation">
 </p>
