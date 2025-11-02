@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30%" alt="Coding animation">
 </p>
 
-<h1 align="center">👋 Hi, I'm Nuno Andrezo</h1>
+<h1 align="center"> Hello, I'm Nuno Andrezo 👋</h1>
 <h3 align="center">Student at 42 Lisboa | Tech Enthusiast | Always seeking to Learn</h3>
 
 ---
