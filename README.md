@@ -8,7 +8,7 @@
 
 ---
 
-### 💫 About Me
+### About Me
 I'm currently studying at **42 Lisboa**, a peer-led, project-based school focused on **C/C++**, systems, and network programming.
 
 Working at **MEO**, as a **Junior Software Developer Intern**, contributing to **system administration, automation, and infrastructure modernization**.
