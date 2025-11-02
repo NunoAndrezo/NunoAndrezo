@@ -1,62 +1,88 @@
-<h3 align="left">Hi! <br>My name is Nuno Andrezo and I'm a student at 42 Lisbon.<br>Born and raised in Porto, Portugal.<br>Love to code, surf and cook!</h3>
+<!-- Header GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="Coding animation">
+</p>
 
-###
+<h1 align="center">👋 Hi, I'm Nuno Andrezo</h1>
+<h3 align="center">Student at 42 Lisboa | Tech Enthusiast | Always seeking to Learn</h3>
 
+---
+
+### 💫 About Me
+I'm currently studying at **42 Lisboa**, a peer-led, project-based school focused on **C/C++**, systems, and network programming.
+
+Working at **MEO**, as a **Junior Software Developer Intern**, contributing to **system administration, automation, and infrastructure modernization**.
+
+Previously, I spent 4+ years in **logistics and operations management**, where I built strong foundations in planning, problem-solving, and process optimization — skills I now apply to technology and development.
+
+💻 Passionate about learning new technologies and building efficient, reliable systems.  
+🏄‍♂️ Outside of tech, I love to **surf, cook, and tinker with my self-hosted home server**, running **Dockerized services** for media, networking, and automation.
+
+---
+
+### ⚙️ Tech & Tools
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=NunoAndrezo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NunoAndrezo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+#### 🧠 Programming & Scripting
+<img src="https://skillicons.dev/icons?i=c,cpp,bash,powershell,html,markdown" /><br>
+
+#### 🖥️ Systems & Environments
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker" /><br>
+
+#### 🧩 Virtualization & System Management
+**CasaOS**, **pfSense**, **SCCM**, **WSUS**, **Server Manager**, **VMware**, **Hyper-V**, **VirtualBox**
+
+#### 🔧 Development Tools
+<img src="https://skillicons.dev/icons?i=git,github,nginx,vscode,vim" /><br>
+
+#### ⚙️ Infrastructure & Debugging
+**Portainer**, **Make**, **GDB**, **Valgrind**, **Qualys**
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo" />
+### 🚀 Current Focus
+- Expanding my knowledge in **systems programming** and **networking**
+- Improving **automation** and **infrastructure management**
+- Maintaining and improving my **self-hosted home server setup**
+- Exploring different areas of **computer science**
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NunoAndrezo&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunoAndrezo&layout=compact&langs_count=8&theme=tokyonight&hide_border=false"/>
 </div>
 
+---
+
+### 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NunoAndrezo&theme=tokyonight&no-frame=true&margin-w=8" />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/nunoandrezo3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo" />
-  </a>
+### 🌐 Connect With Me
+<p align="center">
   <a href="https://www.linkedin.com/in/nuno-andrezo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nunoandrezo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/nn01450" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="40" alt="discord logo" />
+    <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-</div>
+  <a href="https://www.instagram.com/nunoandrezo3/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
-###
+---
 
-<!-- Snake -->
-<div align="center">
-    
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-</div>
-
-###
-
-
-
-<!--
-**NunoAndrezo/NunoAndrezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-## Hi there 👋
-
-- 🔭 I’m currently studying in [42 Lisbon](https://www.42lisboa.com/o-que-e/)
-- 🌱 I’m currently learning [C (programming language)](https://en.wikipedia.org/wiki/C_(programming_language))
--->
+<p align="center">
+  <img width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Coding loop animation">
+</p>
