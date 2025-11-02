@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="Coding animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30%" alt="Coding animation">
 </p>
 
 <h1 align="center">👋 Hi, I'm Nuno Andrezo</h1>
@@ -84,5 +84,5 @@ Previously, I spent 4+ years in **logistics and operations management**, where I
 ---
 
 <p align="center">
-  <img width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Coding loop animation">
+  <img width="200" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Coding loop animation">
 </p>
