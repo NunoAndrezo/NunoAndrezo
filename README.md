@@ -47,21 +47,6 @@ Previously, I spent 4+ years in **logistics and operations management**, where I
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NunoAndrezo&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunoAndrezo&layout=compact&langs_count=8&theme=tokyonight&hide_border=false"/>
-</div>
-
----
-
-### 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NunoAndrezo&theme=tokyonight&no-frame=true&margin-w=8" />
-</div>
-
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nuno-andrezo/" target="_blank">
