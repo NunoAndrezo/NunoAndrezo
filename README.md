@@ -1,10 +1,7 @@
 <!-- Header GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30%" alt="Coding animation">
-</p>
 
-<h1 align="center"> Hello, I'm Nuno Andrezo 👋</h1>
-<h3 align="center">Student at 42 Lisboa | Tech Enthusiast | Always seeking to Learn</h3>
+<h1 align="center"> Hello, I'm Nuno Andrezo</h1>
+<h3 align="center">Student at 42 Lisboa | Tech Enthusiast</h3>
 
 ---
 
@@ -88,7 +85,3 @@ Previously, I spent 4+ years in **logistics and operations management**, where I
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NunoAndrezo/NunoAndrezo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NunoAndrezo/NunoAndrezo/output/pacman-contribution-graph.svg">
 </picture>
-
-<p align="center">
-  <img width="200" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Coding loop animation">
-</p>
