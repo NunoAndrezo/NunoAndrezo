@@ -10,10 +10,10 @@ I'm currently studying at **42 Lisboa**, a peer-led, project-based school focuse
 
 Working at **MEO**, as a **Junior Software Developer Intern**, contributing to **system administration, automation, and infrastructure modernization**.
 
-Previously, I spent 4+ years in **logistics and operations management**, where I built strong foundations in planning, problem-solving, and process optimization — skills I now apply to technology and development.
+Previously, I spent 4+ years in **logistics and operations management**, where I built strong foundations in planning, problem-solving, and process optimization, skills that I now apply to technology and development.
 
-💻 Passionate about learning new technologies and building efficient, reliable systems.  
-🏄‍♂️ My favorite hobbies: I love to **surf, cook, and tinker with my self-hosted home server**, running **Dockerized services** for media, networking, and automation.
+Passionate about learning new technologies and building efficient, reliable systems.  
+I love to **surf 🏄‍♂️, cook, and tinker with my self-hosted home server**, running **Dockerized services** for media, networking, and automation.
 
 ---
 
