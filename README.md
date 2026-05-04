@@ -8,7 +8,7 @@
 ### About Me
 I'm currently studying at **42 Lisboa**, a peer-led, project-based school focused on **C/C++**, systems, and network programming.
 
-Working at **MEO**, as a **Junior Software Developer Intern**, contributing to **system administration, automation, and infrastructure modernization**.
+Working at **MEO**, as a **Software Developer Intern**, contributing to **system administration, automation, and infrastructure modernization**.
 
 Previously, I spent 4+ years in **logistics and operations management**, where I built strong foundations in planning, problem-solving, and process optimization, skills that I now apply to technology and development.
 
