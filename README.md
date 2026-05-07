@@ -8,38 +8,22 @@
 ### About Me
 I'm currently studying at **42 Lisboa**, a peer-led, project-based school focused on **C/C++**, systems, and network programming.
 
-Working at **MEO**, as a **Software Developer Intern**, contributing to **system administration, automation, and infrastructure modernization**.
+Working at **MEO**, as a **Software Developer**, contributing to **system administration, automation, and infrastructure modernization**.
 
 Previously, I spent 4+ years in **logistics and operations management**, where I built strong foundations in planning, problem-solving, and process optimization, skills that I now apply to technology and development.
 
 Passionate about learning new technologies and building efficient, reliable systems.  
-I love to **surf 🏄‍♂️, cook, and tinker with my self-hosted home server**, running **Dockerized services** for media, networking, and automation.
+I love to **surf, cook, and tinker with my self-hosted home server**, running **Dockerized services** for media, networking, and automation.
 
 ---
 
-### ⚙️ Tech & Tools
-<div align="center">
-
-#### 🧠 Programming & Scripting
+### Tech & Tools
 <img src="https://skillicons.dev/icons?i=c,cpp,bash,powershell,html,markdown" /><br>
-
-#### 🖥️ Systems & Environments
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker" /><br>
-
-#### 🧩 Virtualization & System Management
-**CasaOS**, **pfSense**, **SCCM**, **WSUS**, **Server Manager**, **VMware**, **Hyper-V**, **VirtualBox**
-
-#### 🔧 Development Tools
 <img src="https://skillicons.dev/icons?i=git,github,nginx,vscode,vim" /><br>
-
-#### ⚙️ Infrastructure & Debugging
-**Portainer**, **Make**, **GDB**, **Valgrind**, **Qualys**
-
-</div>
-
 ---
 
-### 🚀 Current Focus
+### Current Focus
 - Expanding my knowledge in **systems programming** and **networking**
 - Improving **automation** and **infrastructure management**
 - Maintaining and improving my **self-hosted home server setup**
@@ -47,7 +31,7 @@ I love to **surf 🏄‍♂️, cook, and tinker with my self-hosted home server
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nuno-andrezo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
