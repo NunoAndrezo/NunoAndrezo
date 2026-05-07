@@ -1,9 +1,6 @@
-<!-- Header GIF -->
-
 <h1 align="center"> Hello, I'm Nuno Andrezo</h1>
 <h3 align="center">Student at 42 Lisboa | Tech Enthusiast</h3>
 
----
 
 ### About Me
 I'm currently studying at **42 Lisboa**, a peer-led, project-based school focused on **C/C++**, systems, and network programming.
@@ -15,13 +12,12 @@ Previously, I spent 4+ years in **logistics and operations management**, where I
 Passionate about learning new technologies and building efficient, reliable systems.  
 I love to **surf, cook, and tinker with my self-hosted home server**, running **Dockerized services** for media, networking, and automation.
 
----
 
 ### Tech & Tools
 <img src="https://skillicons.dev/icons?i=c,cpp,bash,powershell,html,markdown" /><br>
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker" /><br>
 <img src="https://skillicons.dev/icons?i=git,github,nginx,vscode,vim" /><br>
----
+
 
 ### Current Focus
 - Expanding my knowledge in **systems programming** and **networking**
@@ -29,7 +25,6 @@ I love to **surf, cook, and tinker with my self-hosted home server**, running **
 - Maintaining and improving my **self-hosted home server setup**
 - Exploring different areas of **computer science**
 
----
 
 ### Connect With Me
 <p align="center">
@@ -47,7 +42,6 @@ I love to **surf, cook, and tinker with my self-hosted home server**, running **
   </a>
 </p>
 
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NunoAndrezo/NunoAndrezo/output/pacman-contribution-graph-dark.svg">
